@@ -9,7 +9,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello master");
+            Console.WriteLine("master add");
         }
+
     }
 }
