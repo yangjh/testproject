@@ -1,2 +1,6 @@
 
 *.suo
+ *\obj
+ *\bin
+ *\Debug
+ *\Release
