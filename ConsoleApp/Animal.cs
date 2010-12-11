@@ -5,9 +5,7 @@ using System.Text;
 
 namespace ConsoleApp
 {
-    class Customer
+    class Animal
     {
-        //fred
-        //jeff
     }
 }
