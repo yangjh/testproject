@@ -43,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-  <Compile Include="Machine.cs" />
+<<<<<<< HEAD
+    <Compile Include="Machine.cs" />
+=======
     <Compile Include="Animal.cs" />
     <Compile Include="Cool.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="People.cs" />
+>>>>>>> origin/master
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

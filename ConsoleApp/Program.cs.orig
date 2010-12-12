@@ -9,12 +9,16 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
+            Console.WriteLine("hello");
+            Machine m = new Machine();
+=======
             Console.WriteLine("hello master");
-			Machine m = new Machine();
             Console.WriteLine("master add");
 			//test
             Console.WriteLine("test");
             Console.WriteLine("test new");
+>>>>>>> origin/master
         }
 
     }
