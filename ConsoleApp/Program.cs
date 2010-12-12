@@ -10,6 +10,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Machine m = new Machine();
         }
     }
 }
