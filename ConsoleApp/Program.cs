@@ -13,7 +13,7 @@ namespace ConsoleApp
             Console.WriteLine("master add");
 			//test
             Console.WriteLine("test");
-			
+            Console.WriteLine("test new");
         }
 
     }
