@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-  <Compile Include="Machine.cs" />
+    <Compile Include="Lab.cs" />
+    <Compile Include="Machine.cs" />
     <Compile Include="Animal.cs" />
     <Compile Include="Cool.cs" />
     <Compile Include="Customer.cs" />
